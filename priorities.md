@@ -1,0 +1,27 @@
+# Prioridades
+
+- [ x ] Iniciar o projeto com Expo e TypeScript
+- [ ] Instalar dependências essenciais
+- [ ] Configurar JSON Server (API simulada)
+- [ ] Configurar navegação básica
+- [ ] Implementar Splash Screen
+- [ ] Configurar sistema de autenticação básico
+- [ ] Criar tela de login
+- [ ] Criar tela de cadastro
+- [ ] Manter estado de autenticação
+- [ ] Configurar integração com API
+- [ ] Implementar lista infinita
+- [ ] Criar tela principal
+- [ ] Configurar push notifications com Expo
+- [ ] Solicitar permissão no login
+- [ ] Simular notificação de compra
+- [ ] Adicionar botão de compra em ProductItem
+- [ ] Implementar lógica de compra
+- [ ] Configurar ambiente de testes
+- [ ] Escrever testes para autenticação
+- [ ] Escrever testes para lista de produtos
+- [ ] Escrever testes para telas
+- [ ] Armazenamento local (opcional)
+- [ ] Funcionalidade de compartilhamento (opcional)
+- [ ] Animações suaves (opcional)
+- [ ] Edição de perfil (opcional)
